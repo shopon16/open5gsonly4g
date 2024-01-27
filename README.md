@@ -1,1 +1,1 @@
-# open5gsonly4g
+# open5gsonly4gdev
