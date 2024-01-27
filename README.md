@@ -1,0 +1,1 @@
+# open5gsonly4g
